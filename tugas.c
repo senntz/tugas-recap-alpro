@@ -56,7 +56,7 @@ int main() {
                 break; // Keluar dari perulangan
             }
         }
-    } while (...);
+    } while (mainLagi == 'Y' || mainLagi == 'y');
 
     return 0;
 }
