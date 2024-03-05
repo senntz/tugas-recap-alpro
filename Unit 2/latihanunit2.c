@@ -3,7 +3,7 @@
 int i, j, temp;
 
 int main(){
-  scanf("%d/n", &i);
+  scanf("%d\n", &i);
   if(i > 0){
     while(i != 0){
       scanf("%d", &j);
